@@ -1,0 +1,15 @@
+{
+  "codeintel_language_settings": {
+    "Python3": {
+      "codeintel_scan_extra_dir": [
+        "/home/user/Desktop/myproject/venv/lib/python3.5/site-packages",
+        "/home/user/Desktop/myproject/venv/local/lib/python3.5/dist-packages",
+        "/home/user/Desktop/myproject/venv/lib/python3/dist-packages",
+        "/home/user/Desktop/myproject/venv/lib/python3.5/dist-packages"
+      ],
+      "codeintel_scan_files_in_project": true,
+      "codeintel_selected_catalogs": [],
+      "python3": "/home/user/Desktop/myproject/venv/bin/python3"
+    }
+  }
+}

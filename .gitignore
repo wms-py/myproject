@@ -1,0 +1,5 @@
+myproject.sublime-workspace
+venv/
+__pycache__
+.vscode
+venv

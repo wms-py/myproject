@@ -1,0 +1,16 @@
+{
+    "folders":
+    [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python_interpreter": "/home/user/Desktop/myproject/venv/bin/python3",
+        "SublimeLinter.linters.pylint.executable": "/home/user/Desktop/myproject/venv/bin/pylint"
+    }
+   
+           
+          
+
+}
